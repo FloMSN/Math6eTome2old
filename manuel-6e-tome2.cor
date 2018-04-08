@@ -1,0 +1,22 @@
+\smc@corrigechapter {Chapitre{} C1} {Exemples d'usage}{PartieFonction}{Blanc}
+\smc@corrigeactivite 
+\smc@corrigeexercicesbase 
+\inputcor {ExoBase}{C1} {1}
+\inputcor {ExoBase}{C1} {3}
+\smc@corrigeexercicesappr 
+\inputcor {ExoAppr}{C1} {12}
+\inputcor {ExoAppr}{C1} {13}
+\smc@corrigeconnaissances 
+\inputcor {QCM}{C1} {14}
+\inputcor {QCM}{C1} {15}
+\inputcor {QCM}{C1} {16}
+\inputcor {QCM}{C1} {17}
+\inputcor {QCM}{C1} {18}
+\inputcor {QCM}{C1} {19}
+\smc@corrigeenigme 
+\smc@corrigechapter {Chapitre{} C2} {Op\IeC {\'e}rer avec les relatifs}{PartieFonction}{Blanc}
+\smc@corrigeactivite 
+\smc@corrigeexercicesbase 
+\smc@corrigeexercicesappr 
+\smc@corrigeconnaissances 
+\inputcor {QCM}{C2} {5}
