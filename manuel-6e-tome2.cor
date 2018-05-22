@@ -118,7 +118,23 @@
 \smc@corrigeexercicesbase 
 \smc@corrigeexercicesappr 
 \smc@corrigeconnaissances 
-\inputcor {QCM}{G9} {5}
+\inputcor {QCM}{G9} {41}
+\inputcor {QCM}{G9} {42}
+\inputcor {QCM}{G9} {43}
+\inputcor {QCM}{G9} {44}
+\inputcor {QCM}{G9} {45}
+\inputcor {QCM}{G9} {46}
+\inputcor {QCM}{G9} {47}
+\inputcor {QCM}{G9} {48}
+\inputcor {QCM}{G9} {49}
+\inputcor {QCM}{G9} {50}
+\smc@corrigeenigme 
+\smc@corrigechapter {Chapitre{} C10} {Calcul Litt\IeC {\'e}ral}{PartieFonction}{Blanc}
+\smc@corrigeactivite 
+\smc@corrigeexercicesbase 
+\smc@corrigeexercicesappr 
+\smc@corrigeconnaissances 
+\inputcor {QCM}{C10} {5}
 \smc@corrigeenigme 
 \smc@corrigeenigme 
 \smc@corrigeenigme 
