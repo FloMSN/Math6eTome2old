@@ -27,11 +27,13 @@ Trace trois rectangles de 9 cm sur 4 cm.
 \begin{exercice}
 Transforme les nombres suivants en écriture décimale puis entoure d’une même couleur ceux qui sont égaux :
 \begin{center}
-  \begin{tabular}{|c|c|c|c|c|c|} %le ttableau prendrait trop de place...
+\renewcommand{\arraystretch}{2}
+  \begin{tabular}{|c|c|c|c|c|c|} 
   \hline
   \rowcolor{F2} $7 + \dfrac{1}{4}$ & 2 & $\dfrac{29}{4}$ & $\dfrac{156}{78}$ & $\dfrac{84}{10}$ & 29,4 \\\hline
   \rowcolor{F2} $8 - \dfrac{3}{4}$ & 8,4 & $\dfrac{8}{4}$ & $8 + \dfrac{4}{10}$ & $\dfrac{147}{5}$ & 7,25 \\\hline
   \end{tabular}
+  \renewcommand{\arraystretch}{1}
  \end{center}
 \end{exercice}
 
@@ -97,11 +99,13 @@ En choisissant judicieusement une unité de longueur, place précisément sur un
 Le tableau suivant donne le nombre de jetons correspondant à chaque lettre de l'alphabet :
 \begin{center}
 \renewcommand*\tabularxcolumn[1]{>{\centering\arraybackslash}m{#1}}
-\begin{Ctableau}{1.03\linewidth}{9}{c}
+{\scriptsize
+\begin{Ctableau}{\linewidth}{9}{c}
 \hline
-Lettre & \small{E} & \small{A} & \small{I} & \small{NO} \newline \small{RS} \newline \small{TU} & \small{L} & \small{D} \newline \small{M} & \small{BCFG} \newline \small{HPV} \newline \small{Blanc} & \small{JKQW} \newline \small{XYZ} \\\hline
+Lettre & E & A & I & NO \newline RS \newline TU & L & D \newline M & BCFG \newline HPV \newline Blanc & JKQW \newline XYZ \\\hline
 Nombre & 15 & 9 & 8 & 6 & 5 & 3 & 2 & 1 \\\hline
  \end{Ctableau}
+ } % fin du scriptsize
  \end{center}
  \begin{enumerate}
   \item Quel est le nombre total de jetons dans le jeu ?
